@@ -1,0 +1,3 @@
+def naveen(a,b):
+    print(a+b)
+naveen(8,3)
